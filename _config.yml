@@ -9,3 +9,11 @@ domain_name: "http://www.modelism.io"
 url: ""
 author: "Jens Bäckbom"
 
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+plugins: [jekyll-paginate]
+
+
