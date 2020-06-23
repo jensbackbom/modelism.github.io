@@ -1,1 +1,11 @@
 remote_theme: rosario/kasper
+
+name: MODELISM
+description: Models, templates and tools for managers
+meta_description: "Analysis tools and templates"
+
+domain_name: "http://www.modelism.io"
+
+url: ""
+author: "Jens Bäckbom"
+
